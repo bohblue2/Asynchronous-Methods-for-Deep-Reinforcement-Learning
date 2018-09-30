@@ -1,2 +1,2 @@
-# Asynchronous-methods-for-deep-reinforcement-learning
-[Review &amp; Implementation] Asynchronous methods for deep reinforcement learning
+# Asynchronous Methods for Deep Reinforcement Learning
+[Review &amp; Implementation] Asynchronous Methods for Deep Reinforcement Learning
